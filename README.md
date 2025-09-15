@@ -15,14 +15,7 @@ This project allows users to create, read, and manage blog posts with a clean an
 ---
 
 ## 📂 Project Structure
-├── public/ # Static files (CSS, images, etc.)
-│ └── css/ # Stylesheets
-├── views/ # EJS templates (frontend)
-├── app.js # Main application entry point
-├── package.json # Project dependencies and scripts
-├── package-lock.json # Dependency lock file
-├── .gitignore # Ignored files for Git
-└── README.md # Project documentation
+<pre> ```plaintext ├── public/ # Static files (CSS, images, etc.) │ └── css/ # Stylesheets ├── views/ # EJS templates (frontend) ├── app.js # Main application entry point ├── package.json # Project dependencies and scripts ├── package-lock.json # Dependency lock file ├── .gitignore # Ignored files for Git └── README.md # Project documentation ``` </pre>
 
 ---
 
@@ -48,4 +41,4 @@ Add rich text editor for blog writing
 ## 🤝 Contributing
 
 Contributions are welcome!
-If you’d like to improve this project, feel free to fork it and submit a pull r
+If you’d like to improve this project, feel free to fork it and submit a pull request
