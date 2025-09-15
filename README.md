@@ -15,14 +15,14 @@ This project allows users to create, read, and manage blog posts with a clean an
 ---
 
 ## 📂 Project Structure
-├── public/ # Static files (CSS, images, etc.)
-│ └── css/ # Stylesheets
-├── views/ # EJS templates (frontend)
-├── app.js # Main application entry point
-├── package.json # Project dependencies and scripts
-├── package-lock.json # Dependency lock file
-├── .gitignore # Ignored files for Git
-└── README.md # Project documentation
+├── public/              # Static files (CSS, images, etc.)
+│   └── css/             # Stylesheets
+├── views/               # EJS templates (frontend)
+├── app.js               # Main application entry point
+├── package.json         # Project dependencies and scripts
+├── package-lock.json    # Dependency lock file
+├── .gitignore           # Ignored files for Git
+└── README.md            # Project documentation
 
 ---
 
