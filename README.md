@@ -48,4 +48,4 @@ Add rich text editor for blog writing
 ## 🤝 Contributing
 
 Contributions are welcome!
-If you’d like to improve this project, feel free to fork it and submit a pull r
+If you’d like to improve this project, feel free to fork it and submit a pull request.
